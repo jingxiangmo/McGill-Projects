@@ -1,5 +1,5 @@
 # McGill Projects Manifesto
 
-McGill Projects is a community dedicated to bringing together developers, designers, and engineers to build functional, impactful projects.
+***We founded this community on the vision of building a place for developers, designers, and engineers to connect and build cool projects with cool people.***
 
-They say that you are the average of the five people you spend the most time with. Environment matters. We seek to build an environment based on *meaning*, with people working on things that *matter*. It doesn't have to be a non-profit charity. It's beyond making profit. We aim to create gifts for the world: make beautiful art, write beautiful software, and build beautiful products for ourselves and our friends. We are not be intimidated by the difficulty of the problems. We're playing long-term games with long-term teammates. **Learn, build, and share.**
+You are the average of the five people you spend the most time with, so the social environment matters. We want to build an place for people working on the world's biggest problems. It doesn't have to be a non-profit charity. It's beyond making profits. We aim to create gifts for the world: make beautiful art, write beautiful software, and build beautiful products for ourselves and our friends. We are not intimidated by the difficulty of the problems. We're playing long-term games with long-term people. **Learn, build, and share.**
