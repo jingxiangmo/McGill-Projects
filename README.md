@@ -1,5 +1,8 @@
-# McGill Projects Manifesto
+# McGill Projects Vision
 
-***We founded this community on the vision of building a place for developers, designers, and engineers to connect and build cool projects with cool people.***
 
-You are the average of the five people you spend the most time with, so the social environment matters. We want to build an place for people working on the world's biggest problems. It doesn't have to be a non-profit charity. It's beyond making profits. We aim to create gifts for the world: make beautiful art, write beautiful software, and build beautiful products for ourselves and our friends. We are not intimidated by the difficulty of the problems. We're playing long-term games with long-term people. **Learn, build, and share.**
+***We founded this community to build a place for passionate developers, designers, and engineers to connect and build cool projects with cool people.***
+
+We are building a culture for contrarian, first-principled, and creative people who dare to challenge the status quo and the world's most critical problems. We aim to create good gifts for the world: make good art, write good software, and build good products for ourselves and our friends. 
+ 
+This is a place for hard-working, intelligent, energetic, and integrous people to play long-term games with long-term people. **We learn, build, and share with others.**
